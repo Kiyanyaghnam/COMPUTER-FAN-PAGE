@@ -1,6 +1,6 @@
 #### COMPUTER-FAN-PAGE
 
-This is the Sony Vaio VGN-G Series:
+>This is the Sony Vaio VGN-G Series:
 ![image](https://github.com/Kiyanyaghnam/COMPUTER-FAN-PAGE/assets/156230852/b7bcb5c5-de36-4e7d-a6d4-3af0bd3b3d52)
 *it was launched during the year 2007*
 
@@ -17,7 +17,7 @@ source: [I'm an inline-style link](https://www.notebookcheck.net/Sony-Vaio-VGN-G
 
 *** 
 
-This is the Macbook Air:
+>This is the Macbook Air:
 ![image](https://github.com/Kiyanyaghnam/COMPUTER-FAN-PAGE/assets/156230852/cde3e2a5-df0b-4bbd-867d-b1283a24a6f0)
 *This is the 2022 version* 
 | CPU       | STORAGE           | RAM |
