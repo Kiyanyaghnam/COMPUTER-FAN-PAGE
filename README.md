@@ -9,9 +9,9 @@
 |  Intel Core Solo U1500      | 45 GIGABYTES | 2 GIGABYTES |
 
 OTHER INFORMATION:
-- * GRAPHICS CARD * Intel Graphics Media Accelerator (GMA) 950
+- **GRAPHICS CARD** Intel Graphics Media Accelerator (GMA) 950
 - SCREEN SIZE 12.10 INCHES
-- COSTS * 1800 EUROS * 
+- COSTS 1800 EUROS 
 
 source: [I'm an inline-style link](https://www.notebookcheck.net/Sony-Vaio-VGN-G-Series.10629.0.html)
 
