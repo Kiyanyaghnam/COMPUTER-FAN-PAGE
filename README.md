@@ -31,5 +31,8 @@ OTHER INFORMATION:
 
 source: [I'm an inline-style link](https://www.apple.com/shop/buy-mac/macbook-air)
 
-As you can see computers have developed a lot over time, the Macbook Air is cheaper yet still has better specs. Showing just how much computers have developed over time with the price point decreasing but the quality increasing. 
+As you can see computers have developed a lot over time, the Macbook Air is cheaper yet still has better specs. Showing just how much computers have developed over time with the price point decreasing but the quality increases. 
+
+
+This was overall a very fun assignment.
 
